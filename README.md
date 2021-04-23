@@ -1,4 +1,4 @@
-# tdex-registry
+# tdex-registryY
 Public list of tdex liquidity providers
 
 Any always-on endpoint that implements the [BOTD#4 Trade Protocol](https://github.com/TDex-network/tdex-specs/blob/master/04-trade-protocol.md#trade) HTTP2 interface could be registered in this list. Being in this list is not required to be "discovered" by the `tdex-app`, `tdex-cli` or other `tdex-sdk`-based clients, anyone could connect to you directly. This aims to be a public list that helps advanced traders to discover liquidity providers that guarantee highly available and professional service.
